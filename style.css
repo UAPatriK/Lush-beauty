@@ -119,3 +119,10 @@ padding-left: 0px;
 	list-style-type: none;
 
 }
+
+
+.img-center {
+	margin: 0 auto !important;
+	display: table-cell;
+}
+
